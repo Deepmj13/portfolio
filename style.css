@@ -433,6 +433,15 @@ body{
 	}
 
 
+	.projects .project-cards{
+		flex-direction:column;
+		height:100vw;
+		justify-content: space-evenly;
+	}
+	.projects .project-cards .card{
+		width:80%;
+	}
+
 
 
 /* @keyframes scaleContent{
