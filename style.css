@@ -431,6 +431,11 @@ body{
 	.about .text-container p{
 		font-size:1.55rem;
 	}
+	.projects .project-cards{
+		flex-direction:column;
+		height:100vw;
+		justify-content:space-evenly;
+	}
 
 
 
