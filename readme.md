@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+YOUR_NAME;Passionate+Developer+%7C+Lifelong+Learner;Building+cool+stuff+with+code+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+Deep+Mujpara;Passionate+Developer+%7C+Lifelong+Learner;Building+cool+stuff+with+code+💻" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
@@ -37,18 +37,15 @@
 
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/react.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
 </p>
 
-## 🌐 Connect with Me
+## 🌐 Social Links
 
 <p align="center">
   <a href="https://github.com/deepmj13">
@@ -59,6 +56,9 @@
   </a>
   <a href="mailto:playstore1392004@gmail.com">
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+  <a href="https://instagram.com/deepmj13.9">
+    <img src="https://img.shields.io/badge/instagram-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
 
