@@ -5,14 +5,14 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/deepmj13">
+    <img src="https://komarev.com/ghpvc/?username=deepmj13&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/deepmj13?tab=followers">
+    <img src="https://img.shields.io/github/followers/deepmj13?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
+  <a href="https://github.com/deepmj13?tab=repositories">
+    <img src="https://img.shields.io/github/stars/deepmj13?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -20,12 +20,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Your current project / learning path**
-- 🌱 I’m learning: **Python / React / Node / DSA / ML / etc.**
-- 👯 I’m looking to collaborate on: **Open-source projects / web apps / scripts**
-- 💬 Ask me about: **Python, Web Dev, APIs, Git, etc.**
-- 📫 How to reach me: **yourmail@example.com**
-- ⚡ Fun fact: **Add something fun about you 😄**
+- Software Developer
+- I’m looking to collaborate on: **Open-source projects / web apps / scripts / Software Automation /**
 
 ---
 
@@ -53,35 +49,35 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
 </p>
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
 > ✨ Replace these with your real repos
 
-- 🔹 [Awesome Project 1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1)  
+- 🔹 [Awesome Project 1](https://github.com/deepmj13/REPO_NAME_1)
   Short description of what this project does.
 
-- 🔹 [Awesome Project 2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)  
+- 🔹 [Awesome Project 2](https://github.com/deepmj13/REPO_NAME_2)
   Short description of tech stack and purpose.
 
-- 🔹 [Awesome Project 3](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_3)  
+- 🔹 [Awesome Project 3](https://github.com/deepmj13/REPO_NAME_3)
   Short description or features.
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepmj13&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepmj13&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepmj13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -89,13 +85,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/deepmj13">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://linkedin.com/in/deep_mujpara">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:playstore1392004@gmail.com">
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
@@ -103,5 +99,5 @@
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile! Star some repos and let's connect 🤝
+  Thanks for visiting my profile! And let's connect 
 </p>
