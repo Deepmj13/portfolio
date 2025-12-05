@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000%C2%A2er=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I%27m+Deep+%C2%A0+Mujpara;Passionate+Developer+%7C+Lifelong+Learner;Building+cool+stuff+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&duration=2500&pause=800&color=F7F7F7&background=000000&vCenter=true&width=435&lines=Hii%2C+I+am+Deep+Mujpara;Student;Building+stuff+with+code+" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
