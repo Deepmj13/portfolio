@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&duration=2500&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hii%2C+I+am+Deep+Mujpara;Student;Building+stuff+with+code+" alt="Typing SVG" />
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deepmj13" alt="GitHub Streak" /></a>
+
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/deepmj13">
